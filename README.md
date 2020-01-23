@@ -1,5 +1,5 @@
-# chrome_password_Dumper
-This simple program will dump the plaintext password stored by google chrome
+# chrome_credential_Dumper
+This simple program will dump the plaintext password and cookies stored by google chrome
 
 How to use it.
 
